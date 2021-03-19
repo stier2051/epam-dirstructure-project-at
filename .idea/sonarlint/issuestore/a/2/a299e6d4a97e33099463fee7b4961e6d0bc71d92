@@ -1,0 +1,8 @@
+
+c	java:S899,"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ8åÁ¬¶„/
+X	java:S106"9Replace this use of System.out or System.err by a logger.(û¼¶şÿÿÿÿ8âæÿ¶„/
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ö…¶„/
+E	java:S1089")Either remove or fill this block of code.(óÃ²×8×Ïş¶„/
+c	java:S899%"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ8 õ‹¶„/
+c	java:S8993"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ8ú²¶„/
